@@ -1,0 +1,9 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# PyTorch model files
+*.pt
+
+# Environment variables
+.env
