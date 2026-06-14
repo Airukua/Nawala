@@ -1,6 +1,6 @@
 import os
 from utils.enums import Role
-from typing import Optional, Dict, Any, List
+from typing import Optional, Dict, Any, List, Union
 from dataclasses import dataclass, field
 
 @dataclass
